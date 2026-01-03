@@ -186,11 +186,9 @@ I'm a seasoned software engineer with **16 years of experience at Tencent** (200
 
 <div align="center">
   
-![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neilzhangpro&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neilzhangpro&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neilzhangpro&theme=radical)
 
 </div>
 
