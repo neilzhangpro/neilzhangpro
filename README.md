@@ -115,6 +115,14 @@ I'm a seasoned software engineer with **16 years of experience at Tencent** (200
 - Reusable component library for LLM integrations
 - **Tech Stack:** TypeScript, React, Next.js
 
+### 🏥 [Doctor Booking Application](https://github.com/neilzhangpro/Doctor-Booking-Application)
+**Full-Stack Doctor Appointment Booking Platform** | [Live Demo](https://necktie-kappa.vercel.app)
+- Modern booking system with SSR home page, real-time slot availability, and progressive booking flow
+- **AI-powered chatbot** (LangChain agent) for natural language appointment scheduling
+- Dark mode, responsive design, full keyboard accessibility, and virtual list for large datasets
+- CI/CD pipeline with GitHub Actions, automated testing (Jest + RTL), and Vercel deployment
+- **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS 4, TanStack Query, LangChain, Jest, Vercel
+
 ---
 
 ## 🏢 Professional Experience
