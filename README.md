@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:tomieweb@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/tomiezhang)
 
-**Full Stack Engineer | AI Application Developer | Open to Opportunities in New Zealand 🇳🇿**
+**Full Stack Engineer | AI Application Developer | Building AI Agents in New Zealand 🇳🇿**
 
 </div>
 
@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-I'm a seasoned software engineer with **16 years of experience at Tencent** (2007-2023), where I progressed from frontend developer to **Product R&D Director at Tencent Cloud**. After taking a career break to upskill in AI technologies, I'm now pursuing a **Master of Software Engineering at Yoobee College** in Auckland, New Zealand, while actively seeking opportunities as an **AI Engineer or Full Stack Engineer**.
+I'm a seasoned software engineer with **16 years of experience at Tencent** (2007-2023), where I progressed from frontend developer to **Product R&D Director at Tencent Cloud**. After upskilling in AI technologies, I'm now working as an **AI Engineer at [Novamind Labs](https://github.com/Novamind-Labs-Ltd)** — an applied AI studio focused on enterprise-grade agent workflows — while completing my **Master of Software Engineering at Yoobee College** in Auckland, New Zealand.
 
 🎯 **Current Focus:**
+- Designing and delivering enterprise AI agent systems at **Novamind Labs**
 - Building production-ready AI applications with LangChain, LangGraph, and modern LLM frameworks
 - Developing full-stack applications with TypeScript, Python, Next.js, and FastAPI
 - Contributing to open-source AI projects and teaching AI development to the community
-- Volunteering as a coding instructor for Code Club NZ and Digital Seniors
 
 📍 **Location:** Auckland, New Zealand  
 🎓 **Education:** Master of Software Engineering (In Progress), Yoobee College  
@@ -127,6 +127,13 @@ I'm a seasoned software engineer with **16 years of experience at Tencent** (200
 
 ## 🏢 Professional Experience
 
+### **AI Engineer** | [Novamind Labs](https://github.com/Novamind-Labs-Ltd)
+*2025 - Present | Auckland, New Zealand*
+
+- Building enterprise-grade AI agent systems and agent-assisted workflows for business clients
+- Designing and implementing scalable agentic architectures with LangChain, LangGraph, and Claude
+- First professional role in New Zealand, bridging 16 years of Tencent experience with cutting-edge AI engineering
+
 ### **Product R&D Director** | Tencent Cloud
 *2007 - 2023 (16 years) | Shenzhen, China*
 
@@ -205,9 +212,9 @@ I'm a seasoned software engineer with **16 years of experience at Tencent** (200
 
 ## 🌟 What I'm Looking For
 
-I'm actively seeking **AI Engineer** or **Full Stack Engineer** positions in New Zealand where I can:
+I'm currently working as an AI Engineer at Novamind Labs while completing my Master's degree, and I'm open to **full-time AI Engineer or Full Stack Engineer** opportunities in New Zealand:
 
-✅ Build production AI applications using LLMs and modern frameworks  
+✅ Build production AI agent systems and agentic workflows  
 ✅ Develop full-stack solutions with TypeScript, Python, and cloud technologies  
 ✅ Contribute to innovative products that leverage AI capabilities  
 ✅ Work with collaborative teams on challenging technical problems  
