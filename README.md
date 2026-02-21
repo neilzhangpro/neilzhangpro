@@ -80,12 +80,13 @@ I'm a seasoned software engineer with **16 years of experience at Tencent** (200
 - Exploring practical applications of LLMs in real-world trading scenarios
 - **Tech Stack:** Python, LangGraph, OpenAI API, Cryptocurrency APIs
 
-### 📄 [RocketCV](https://github.com/neilzhangpro/rocketCV)
-**AI-Powered Resume Builder** | 🚧 Active Development
-- Intelligent CV generation and optimization using LLM capabilities
-- Tailors resumes to specific job descriptions and industries
-- Demonstrates practical application of AI in career development tools
-- **Tech Stack:** TypeScript, Next.js, LangChain, OpenAI API
+### 📄 [JobFit AI](https://github.com/neilzhangpro/JobFit_AI)
+**AI-Driven Resume Optimization SaaS Platform** | 🚧 Active Development
+- Leverages **RAG** and **LangGraph** agentic workflow to tailor resumes to specific job descriptions
+- ATS compatibility scoring (0-100%) with category-level breakdown and gap analysis
+- Auto-generates interview Q&A (STAR format) and tailored cover letters
+- Multi-tenant SaaS architecture following **Domain-Driven Design (DDD)**
+- **Tech Stack:** Python, FastAPI, Next.js, TypeScript, LangChain, LangGraph, PostgreSQL, Redis, ChromaDB, Docker
 
 ### 📊 [LangGraph-based Report Generation System](https://github.com/neilzhangpro/LangGraph-based-Report-Generation-System)
 **Enterprise-Grade AI Report Generation**
@@ -235,7 +236,7 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 - 🏃‍♂️ **Daily Runner:** I jog 5km outdoors every day - it's my thinking time and stress relief
 - 🚀 **Sci-Fi Enthusiast:** Huge fan of science fiction movies and stories - they inspire my vision of technology's future
 - 📚 **Self-Taught Developer:** My bachelor's degree is in Education, but I fell in love with programming and taught myself everything about computer science and software development
-- 🔬 **Building Real-World AI:** Currently developing **LangTrader** (AI trading system) and **RocketCV** (AI resume builder) to explore practical applications of LLMs in real business scenarios
+- 🔬 **Building Real-World AI:** Currently developing **LangTrader** (AI trading system) and **JobFit AI** (AI resume optimization platform) to explore practical applications of LLMs in real business scenarios
 
 ---
 
